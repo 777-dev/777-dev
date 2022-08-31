@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Infinity-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Infinity-2004" /> </p>
 
-- 🔭 I’m currently working on **Detro Codes </>**
+- 🔭 I’m currently working on **Infinity Codes </>**
 
 - 🌱 I’m currently learning **Php , Bash , Clous**
 
